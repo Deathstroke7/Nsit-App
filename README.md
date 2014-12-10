@@ -13,8 +13,11 @@ Dependencies
 ==========
 
 https://github.com/chrisbanes/Android-PullToRefresh
+
 https://github.com/SimonVT/android-menudrawer
+
 https://github.com/chrisbanes/PhotoView
+
 https://developers.google.com/youtube/v3/
 
 
