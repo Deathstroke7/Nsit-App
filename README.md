@@ -9,6 +9,15 @@ NSIT App is an application developed for my college Netaji Subhas Institute of T
 
 Please drop a mail at ans_hul_1994@yahoo.co.in if you want to contribute to the project or are facing any difficulty in trying to run the project.
 
+Dependencies
+==========
+
+https://github.com/chrisbanes/Android-PullToRefresh
+https://github.com/SimonVT/android-menudrawer
+https://github.com/chrisbanes/PhotoView
+https://developers.google.com/youtube/v3/
+
+
 
 License
 =======
