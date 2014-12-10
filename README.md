@@ -1,10 +1,10 @@
 ﻿NSIT APP
 ==========
 
-NSIT App is an application developed for my college Netaji Subhas Institute of Technology. The Working application can be downloaded from the following link :-
+NSIT App is an application developed for my college Netaji Subhas Institute of Technology. The application can be downloaded from the following link :-
 
 
-[Link to Play Store][2] 
+[Play Store Link][2] 
 
 
 Please drop a mail at ans_hul_1994@yahoo.co.in if you want to contribute to the project or are facing any difficulty in trying to run the project.
